@@ -1,6 +1,6 @@
-www.pornhub.com###age-verification-container
-www.pornhub.com##.clearfix.age-verification-modal
-www.pornhub.com###age-verification-wrapper
-rt.pornhub.com###age-verification-container
-rt.pornhub.com##.clearfix.age-verification-modal
-rt.pornhub.com###age-verification-wrapper
+https://www.pornhub.com###age-verification-container
+https://www.pornhub.com##.clearfix.age-verification-modal
+https://www.pornhub.com###age-verification-wrapper
+https://rt.pornhub.com###age-verification-container
+https://rt.pornhub.com##.clearfix.age-verification-modal
+https://rt.pornhub.com###age-verification-wrapper
